@@ -1,7 +1,7 @@
 site_name: Ventisol Docs
 
 nav:
-  - Home: index.md
-  - Sankhya Om:
-    - Financeiro:
-      - Verbas: 'docs/sankhyaOm/01-Financeiro/verbas/moduloVerbas.md'
+- Home: index.md
+- Sankhya Om:
+  - Financeiro:
+    - Verbas: 'docs/sankhyaOm/01-Financeiro/verbas/moduloVerbas.md'
